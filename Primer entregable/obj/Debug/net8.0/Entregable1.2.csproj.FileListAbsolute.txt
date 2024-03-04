@@ -1,0 +1,28 @@
+C:\Users\Juan\Dropbox\PC\Documents\Univesidad\Semestre 6\Construccion de software 4\Entregable1.2\obj\Debug\net8.0\Entregable1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Dropbox\PC\Documents\Univesidad\Semestre 6\Construccion de software 4\Entregable1.2\obj\Debug\net8.0\Entregable1.2.AssemblyInfoInputs.cache
+C:\Users\Juan\Dropbox\PC\Documents\Univesidad\Semestre 6\Construccion de software 4\Entregable1.2\obj\Debug\net8.0\Entregable1.2.AssemblyInfo.cs
+C:\Users\Juan\Dropbox\PC\Documents\Univesidad\Semestre 6\Construccion de software 4\Entregable1.2\obj\Debug\net8.0\Entregable1.2.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Dropbox\PC\Documents\Univesidad\Semestre 6\Construccion de software 4\Entregable1.2\bin\Debug\net8.0\Entregable1.2.exe
+C:\Users\Juan\Dropbox\PC\Documents\Univesidad\Semestre 6\Construccion de software 4\Entregable1.2\bin\Debug\net8.0\Entregable1.2.deps.json
+C:\Users\Juan\Dropbox\PC\Documents\Univesidad\Semestre 6\Construccion de software 4\Entregable1.2\bin\Debug\net8.0\Entregable1.2.runtimeconfig.json
+C:\Users\Juan\Dropbox\PC\Documents\Univesidad\Semestre 6\Construccion de software 4\Entregable1.2\bin\Debug\net8.0\Entregable1.2.dll
+C:\Users\Juan\Dropbox\PC\Documents\Univesidad\Semestre 6\Construccion de software 4\Entregable1.2\bin\Debug\net8.0\Entregable1.2.pdb
+C:\Users\Juan\Dropbox\PC\Documents\Univesidad\Semestre 6\Construccion de software 4\Entregable1.2\obj\Debug\net8.0\Entregable1.2.dll
+C:\Users\Juan\Dropbox\PC\Documents\Univesidad\Semestre 6\Construccion de software 4\Entregable1.2\obj\Debug\net8.0\refint\Entregable1.2.dll
+C:\Users\Juan\Dropbox\PC\Documents\Univesidad\Semestre 6\Construccion de software 4\Entregable1.2\obj\Debug\net8.0\Entregable1.2.pdb
+C:\Users\Juan\Dropbox\PC\Documents\Univesidad\Semestre 6\Construccion de software 4\Entregable1.2\obj\Debug\net8.0\Entregable1.2.genruntimeconfig.cache
+C:\Users\Juan\Dropbox\PC\Documents\Univesidad\Semestre 6\Construccion de software 4\Entregable1.2\obj\Debug\net8.0\ref\Entregable1.2.dll
+C:\Users\Juan\Dropbox\PC\Documents\Univesidad\Semestre 6\Construccion de software 4\Primer entregable\bin\Debug\net8.0\Entregable1.2.exe
+C:\Users\Juan\Dropbox\PC\Documents\Univesidad\Semestre 6\Construccion de software 4\Primer entregable\bin\Debug\net8.0\Entregable1.2.deps.json
+C:\Users\Juan\Dropbox\PC\Documents\Univesidad\Semestre 6\Construccion de software 4\Primer entregable\bin\Debug\net8.0\Entregable1.2.runtimeconfig.json
+C:\Users\Juan\Dropbox\PC\Documents\Univesidad\Semestre 6\Construccion de software 4\Primer entregable\bin\Debug\net8.0\Entregable1.2.dll
+C:\Users\Juan\Dropbox\PC\Documents\Univesidad\Semestre 6\Construccion de software 4\Primer entregable\bin\Debug\net8.0\Entregable1.2.pdb
+C:\Users\Juan\Dropbox\PC\Documents\Univesidad\Semestre 6\Construccion de software 4\Primer entregable\obj\Debug\net8.0\Entregable1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Dropbox\PC\Documents\Univesidad\Semestre 6\Construccion de software 4\Primer entregable\obj\Debug\net8.0\Entregable1.2.AssemblyInfoInputs.cache
+C:\Users\Juan\Dropbox\PC\Documents\Univesidad\Semestre 6\Construccion de software 4\Primer entregable\obj\Debug\net8.0\Entregable1.2.AssemblyInfo.cs
+C:\Users\Juan\Dropbox\PC\Documents\Univesidad\Semestre 6\Construccion de software 4\Primer entregable\obj\Debug\net8.0\Entregable1.2.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Dropbox\PC\Documents\Univesidad\Semestre 6\Construccion de software 4\Primer entregable\obj\Debug\net8.0\Entregable1.2.dll
+C:\Users\Juan\Dropbox\PC\Documents\Univesidad\Semestre 6\Construccion de software 4\Primer entregable\obj\Debug\net8.0\refint\Entregable1.2.dll
+C:\Users\Juan\Dropbox\PC\Documents\Univesidad\Semestre 6\Construccion de software 4\Primer entregable\obj\Debug\net8.0\Entregable1.2.pdb
+C:\Users\Juan\Dropbox\PC\Documents\Univesidad\Semestre 6\Construccion de software 4\Primer entregable\obj\Debug\net8.0\Entregable1.2.genruntimeconfig.cache
+C:\Users\Juan\Dropbox\PC\Documents\Univesidad\Semestre 6\Construccion de software 4\Primer entregable\obj\Debug\net8.0\ref\Entregable1.2.dll
